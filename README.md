@@ -9,6 +9,7 @@
 
 - 5 Star Gold Badge in Language Proficiency (HackerRank)
 
-|| Python Lover | Machine Learning Enthusiast | Artificial Intelligence Developer | Passionate Competitive Coder ||
+- Python Lover || Machine Learning Enthusiast || Artificial Intelligence Developer || Passionate Competitive Coder
+
 
 - Connect with me at https://www.linkedin.com/in/abhishek-sharma-aa06a9183/
