@@ -1,16 +1,14 @@
 ### Hi there Abhishek Sharma here!👋
 
-<!--
-**abhisheks008/abhisheks008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at Learnbird Innovative Solutions as an Artificial Intelligence Developer
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
+- 👯 Currently studying Computer Science Engineering
+- 📫 How to reach me: https://www.facebook.com/abhi.sensharma
 
-Here are some ideas to get you started:
+- 5 Star Gold Badge in Problem Solving (HackerRank)
 
-- 🔭 I’m currently working on Learnbird
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 5 Star Gold Badge in Language Proficiency (HackerRank)
+
+|| Python Lover | Machine Learning Enthusiast | Artificial Intelligence Developer | Passionate Competitive Coder ||
+
+- Connect with me at https://www.linkedin.com/in/abhishek-sharma-aa06a9183/
