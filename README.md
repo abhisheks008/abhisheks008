@@ -17,7 +17,7 @@
 <!-- Actual text -->
 
 
-You guys can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][1].
+You guys can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
