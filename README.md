@@ -11,12 +11,13 @@
 - Python Lover || Machine Learning Enthusiast || Artificial Intelligence Developer || Passionate Competitive Coder
 
 
-[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheks008&show_icons=true&theme=radical)](https://github.com/abhisheks008/github-readme-stats)
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheks008&show_icons=true&theme=radical)](https://github.com/abhisheks008/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheks008&theme=radical)](https://github.com/abhisheks008/github-readme-stats)
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][1].
+
+You guys can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][1].
 
 <!-- Icons -->
 
