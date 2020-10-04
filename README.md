@@ -1,3 +1,4 @@
+<body style="background-color:WhiteSmoke;">
 <img src="output-onlinejpgtools.jpg">
 
 ## Hi there Abhishek Sharma here!👋
@@ -56,3 +57,4 @@
 ![VisitorCount](https://profile-counter.glitch.me/{abhisheks008}/count.svg)
 
 </div>
+</body>
