@@ -1,5 +1,5 @@
 <body style="background-color:WhiteSmoke;">
-<img src="output-onlinejpgtools.jpg">
+
 
 ## Hi there Abhishek Sharma here!👋
 
