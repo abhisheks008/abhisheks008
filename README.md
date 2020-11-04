@@ -13,13 +13,9 @@
 
 - Python Lover || Machine Learning Enthusiast || Artificial Intelligence Developer || Passionate Competitive Coder
 
-<div align="center">
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=abhisheks008&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align="center" /></div> 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheks008&langs_count=8&theme=radical)](https://github.com/abhisheks008/github-readme-stats) 
-</div>
-
-
+<div align = "center>
+<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=abhisheks008&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
 
 <div align="center">
  
