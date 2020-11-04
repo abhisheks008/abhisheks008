@@ -14,7 +14,7 @@
 - Python Lover || Machine Learning Enthusiast || Artificial Intelligence Developer || Passionate Competitive Coder
 
 
-<div align = "center>
+<div align = "center">
 <div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=abhisheks008&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
 
 <div align="center">
