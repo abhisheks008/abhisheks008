@@ -33,10 +33,19 @@
 </a>
 <a href="https://instagram.com/abhisheksharma1282000" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href = "sharma.abhishek1282000@gmail.com" target = "_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>  
- 
 
+
+## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)    <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+
+## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>       <img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>     <img src="https://img.shields.io/badge/kotlin%20-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/ruby%20-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
+
+
+## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)   <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" /> 
 
 <br>
 
