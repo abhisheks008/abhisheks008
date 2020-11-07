@@ -34,7 +34,7 @@
 <a href="https://instagram.com/abhisheksharma1282000" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href = "sharma.abhishek1282000@gmail.com" target = "_blank">
+<a href = "https://mail.google.com" target = "_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>  
