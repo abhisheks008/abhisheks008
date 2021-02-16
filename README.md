@@ -4,17 +4,23 @@
 ## Hi there Abhishek Sharma here!👋
 
 ## ▶ :computer: Currently, I am a Software Development intern at [Learnbird Innovative Solutions](learnbird.in) ◀
-:star:  I’m currently working as a Python :snake: Developer and Data Analyst
+:star:  **I’m currently working as a Python :snake: Developer and Data Analyst**
 
-:snowflake:  Currently studying Computer Science Engineering from University of Engineering & Management, Kolkata
+:nerd_face: **Currently learning Java**
 
-:muscle: Passionate about Competitive Coding
+:snowflake:  **Currently studying Computer Science Engineering from University of Engineering & Management, Kolkata**
+
+:muscle: **Passionate about Competitive Coding**
 - 6 :star: at HackerRank
 - 5 :star: at CodeChef
 - #3 Gloal Rank at Coding Blocks
 - 2 :star: at LeetCode
 
-In short:beer:, I :heart_eyes: to develope with my :hearts:
+**In short:beer:, I :heart_eyes: to develope with my :hearts:**
+
+
+*:sleeping: Fun Fact about me, I used to listen music during the time of coding!*
+
 
 
 <div align = "center">
