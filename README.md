@@ -3,15 +3,18 @@
 
 ## Hi there Abhishek Sharma here!👋
 
-## ▶ Currently, I am a Software Development intern at [Learnbird Innovative Solutions](learnbird.in) ◀
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
-- 👯 Currently studying Computer Science Engineering
+## ▶ :computer: Currently, I am a Software Development intern at [Learnbird Innovative Solutions](learnbird.in) ◀
+:star:  I’m currently working as a Python :snake: Developer and Data Analyst
 
-- 6 Star Gold Badge in Problem Solving (HackerRank)
+:snowflake:  Currently studying Computer Science Engineering from University of Engineering & Management, Kolkata
 
-- 5 Star Gold Badge in Language Proficiency (HackerRank)
+:muscle: Passionate about Competitive Coding
+- :six: :star: at HackerRank
+- :five: :star: at CodeChef
+- :three: Gloal Rank at Coding Blocks
+- :two: :star: at LeetCode
 
-- Python Lover || Machine Learning Enthusiast || Artificial Intelligence Developer || Passionate Competitive Coder
+In short:beer:, I :heart_eyes: to develope with my :hearts:
 
 
 <div align = "center">
