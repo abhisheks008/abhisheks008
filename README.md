@@ -9,10 +9,10 @@
 :snowflake:  Currently studying Computer Science Engineering from University of Engineering & Management, Kolkata
 
 :muscle: Passionate about Competitive Coding
-- :six: :star: at HackerRank
-- :five: :star: at CodeChef
-- :three: Gloal Rank at Coding Blocks
-- :two: :star: at LeetCode
+- 6 :star: at HackerRank
+- 5 :star: at CodeChef
+- #3 Gloal Rank at Coding Blocks
+- 2 :star: at LeetCode
 
 In short:beer:, I :heart_eyes: to develope with my :hearts:
 
