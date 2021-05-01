@@ -3,8 +3,8 @@
 
 ## Hi there Abhishek Sharma here!👋
 
-## ▶ :computer: Currently, I am a Software Development intern at [Learnbird Innovative Solutions](learnbird.in) ◀
-:star:  **I’m currently working as a Python :snake: Developer and Data Analyst**
+## ▶ :computer: I'm a Python Developer and Competitive Coder  ◀
+:star:  **I’m currently working on a Machine Learning Project as a Python :snake: Developer and Data Analyst**
 
 :nerd_face: **Currently learning Java**
 
