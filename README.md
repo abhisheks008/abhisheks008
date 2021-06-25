@@ -3,10 +3,12 @@
 
 ## Hi there Abhishek Sharma here!👋
 
-## ▶ :computer: I'm a Software Developer and Competitive Coder  ◀
-:star:  **I’m currently working on a Machine Learning Project as a Python :snake: Developer and Data Analyst**
+![](https://github.com/abhisheks008/abhisheks008/blob/main/Web_Photo_Editor.jpg)
+ 
+## ▶ :computer: I'm a Software Developer, Competitive Coder  ◀
+:star:  **I’m currently working on Open Source!**
 
-:nerd_face: **Currently learning Java**
+:nerd_face: **Currently learning Web Dev!**
 
 :snowflake:  **Currently studying Computer Science Engineering from University of Engineering & Management, Kolkata**
 
