@@ -3,7 +3,7 @@
 
 ## Hi there Abhishek Sharma here!👋
 
-## ▶ :computer: I'm a Python Developer and Competitive Coder  ◀
+## ▶ :computer: I'm a Software Developer and Competitive Coder  ◀
 :star:  **I’m currently working on a Machine Learning Project as a Python :snake: Developer and Data Analyst**
 
 :nerd_face: **Currently learning Java**
