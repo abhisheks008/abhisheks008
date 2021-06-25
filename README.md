@@ -4,8 +4,11 @@
 ## Hi there Abhishek Sharma here!👋
 
 ![](https://github.com/abhisheks008/abhisheks008/blob/main/Web_Photo_Editor.jpg)
+
+<div align = "center">
+<h2> ▶  I'm a Software Developer, Competitive Coder and Open Source Contributor :smile: ◀ </h2>
+</div> 
  
-## ▶ :computer: I'm a Software Developer, Competitive Coder  ◀
 :star:  **I’m currently working on Open Source!**
 
 :nerd_face: **Currently learning Web Dev!**
