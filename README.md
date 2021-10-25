@@ -1,7 +1,7 @@
 <body style="background-color:WhiteSmoke;">
 
 
-## Hi there Abhishek Sharma here!👋
+## Hi there, Abhishek Sharma here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://github.com/abhisheks008/abhisheks008/blob/main/Web_Photo_Editor.jpg)
 
