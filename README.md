@@ -1,10 +1,16 @@
 <body style="background-color:WhiteSmoke;">
 
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhishek</h2>
+<h1 align="center">नमस्कार 🙏 </h1>
+ 
+<div align = 'center'>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0090&text=Abhishek%20Sharma&height=150&fontSize=80&desc=Since%202000&descAlignY=75&descAlign=82.5"/></div>
+ 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Software+Developer;Machine+Learning+Researcher;Open+Source+Developer;Competitive+Coder;Supervisor+and+Mentor+in+ML+domain&center=true&width=380&height=45"></a>
+</p>
 
-![](https://github.com/abhisheks008/abhisheks008/blob/main/Web_Photo_Editor.jpg)
-
+ 
 <div align = "center">
 <h2> ▶  I'm a Software Developer, Competitive Coder and Open Source Contributor :smile: ◀ </h2>
 </div> 
