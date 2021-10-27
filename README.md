@@ -1,7 +1,7 @@
 <body style="background-color:WhiteSmoke;">
 
 
-## Hi there, Abhishek Sharma here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhishek</h2>
 
 ![](https://github.com/abhisheks008/abhisheks008/blob/main/Web_Photo_Editor.jpg)
 
