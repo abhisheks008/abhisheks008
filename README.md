@@ -1,7 +1,7 @@
 <body style="background-color:WhiteSmoke;">
 
 
-<h1 align="center">नमस्कार 🙏 </h1>
+<h1 align="center">নমস্কার 🙏 </h1>
  
 <div align = 'center'>
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Abhishek%20Sharma&height=150&fontSize=80&desc=Since%202000&descAlignY=75&descAlign=82.4"/></div>
