@@ -37,8 +37,8 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/abhisheks008) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/abhisheks008)
 
-|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  | Open Source Program |
-|-------------|-------------------|---|---|---|---|---|
+|      Project :octocat:   |     Stars🌟   | Forks🍴  | Issues🐛  | Open PRs:bell:  | Closed PRs:fire:  | Participated In |
+|-------------|-------------------|---|---|---|---|:-:|
 | [**ML-Crate**](https://github.com/prathimacode-hub/ML-Crate) | [![GitHub Stars](https://img.shields.io/github/stars/abhisheks008/ML-Crate?style=flat-square&labelColor=343b41)](https://github.com/abhisheks008/ML-Crate/stars) | [![GitHub Forks](https://img.shields.io/github/forks/abhisheks008/ML-Crate?style=flat-square&labelColor=343b41)](https://github.com/abhisheks008/ML-Crate/forks) | [![GitHub Issues](https://img.shields.io/github/issues/abhisheks008/ML-Crate?style=flat-square)](https://github.com/abhisheks008/ML-Crate/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/abhisheks008/ML-Crate?style=flat&logo=github)](https://github.com/abhisheks008/ML-Crate/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/abhisheks008/ML-Crate?style=flat&color=critical&logo=github)](https://github.com/abhisheks008/ML-Crate/pulls?q=is%3Apr+is%3Aclosed) | [**SWOC 2.0**](https://swoc.scriptindia.org/#/) |
 
  
