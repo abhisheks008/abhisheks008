@@ -4,7 +4,7 @@
 <h1 align="center">नमस्कार! 🙏 </h1>
  
 <div align = 'center'>
- <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Abhishek%20Sharma&height=150&fontSize=80&desc=Since%202000&descAlignY=75&descAlign=82.4"/></div>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Abhishek%20Sharma&height=150&fontSize=80&desc=Kolkata,%20IN&descAlignY=75&descAlign=82.4"/></div>
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Software+Developer;Machine+Learning+Researcher;Open+Source+Developer;Competitive+Coder;Supervisor+and+Mentor+in+ML+Domain!&center=true&width=380&height=45"/><br>
