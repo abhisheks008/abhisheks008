@@ -38,7 +38,7 @@
   <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" height="100px"></a>
  <a href = "eddiehub.org"><img src = "https://img.search.brave.com/1PkJ81M0C7905eHGbj_sHRk3M5jP8k9RFptTogRUzr4/fit/753/1028/ce/1/aHR0cHM6Ly91c2Vy/LWltYWdlcy5naXRo/dWJ1c2VyY29udGVu/dC5jb20vNjI0NzYw/LzExNDMxNDI4OC1l/ZWRhMWU4MC05YWYx/LTExZWItOWMzNy00/OTE2NjIwZmYzZjcu/cG5n" height="100px"></a>
   <a href = "https://lgmsoc.co/"><img src = "https://img.search.brave.com/39tzGnE2r5m3aH82A_-c2qoeGCmqlh3DISee6qrQPPs/fit/640/640/ce/1/aHR0cHM6Ly9pLmlt/Z3VyLmNvbS9EbFhV/cUpVbC5qcGc" height="100px"></a>
- <a href = "https://gwoc.girlscript.tech/"><img src = "https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/224086620_730642757745503_3414411192848054431_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Uus-rLWye8oAX_eFrWa&_nc_ht=scontent.fccu3-1.fna&oh=00_AT8uEHNhFsdUHAvzrCJFjWzjQLmJ-6_KJOoVStUmmUWl8g&oe=61E8426A" height="100px"></a>
+ <a href = "https://gwoc.girlscript.tech/"><img src = "https://gwoc.girlscript.tech/assets/favicon.png" height="100px"></a>
  <a href = "https://swoc.scriptindia.org/"><img src = "https://img.search.brave.com/oQnbpG56waGjo54OeUfP5bO9dSaLxY0gSKX77YRWx8A/fit/200/200/ce/1/aHR0cHM6Ly9tZWRp/YS1leHAxLmxpY2Ru/LmNvbS9kbXMvaW1h/Z2UvQzU2MEJBUUdo/OGhyLUZnYnJIdy9j/b21wYW55LWxvZ29f/MjAwXzIwMC8wP2U9/MjE1OTAyNDQwMCZ2/PWJldGEmdD1YSTBz/b2RsYXhaSFFxMDBt/OVBPN2w1Q1gwOGFC/U1ctUlFnT1l2S1ho/WnVv" height="100px"></a>
  <a href = "https://jwoc.tech/"><img src = "https://i.imgur.com/gIoIHo6.png" height="100px"></a>
 </p> 
