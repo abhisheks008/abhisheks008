@@ -2,17 +2,20 @@
 
 
 <h1 align="center">नमस्कार! 🙏 </h1>
- 
+<img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner.png"/>
+
 <div align = 'center'>
+<!---
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Abhishek%20Sharma&height=150&fontSize=80&desc=Kolkata,%20IN&descAlignY=75&descAlign=82.4"/></div>
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Software+Developer;Machine+Learning+Researcher;Open+Source+Developer;Competitive+Coder;Supervisor+and+Mentor+in+ML+Domain!&center=true&width=380&height=45"/><br>
+--->
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
 <p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 150+ newbies in Open Source programs.</b></p> <br>
-
+</div>
 
  
 :star:  I’m currently working on **Research & Open Source Development!** <br>
