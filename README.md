@@ -45,9 +45,9 @@
  <a href = "https://swoc.scriptindia.org/"><img src = "https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" height="60px"></a>
  <a href = "https://jwoc.tech/"><img src = "https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" height="60px"></a>
  <a href = "https://gssoc.girlscript.tech/"><img src = "https://cdn-images-1.medium.com/max/1200/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" height = "60 px"></a>
- <a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" height=60px />
- <a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" height=60px />
- <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/abhisheks008/DL-Simplified/blob/main/.github/Assets/logo-1.jpg" height=60px />
+ <a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" height=60px /></a>
+ <a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" height=60px /></a>
+ <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/abhisheks008/DL-Simplified/blob/main/.github/Assets/logo-1.jpg" height=60px /></a>
 </p> 
 
  
