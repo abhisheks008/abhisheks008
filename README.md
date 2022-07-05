@@ -63,7 +63,18 @@
 
  
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
- 
+
+<div align = 'center'>
+<h2> Testimonials 📝 </h2></div>
+
+|              **Name**              | **Thoughts on me!** |
+|:----------------------------------:|----------------------|
+|  [**Anubhab Sarkar**](https://www.linkedin.com/in/anubhabsarkar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BX9j20vjZT4aJ8PADJxLLLw%3D%3D) _(JWOC Lead)_  |  Abhishek is one of the most skillful and talented open source developers I have come across at JGEC Winter of Code 2K22. He exhibited commendable performance as a Project Admin and Mentor throughout the event. It was a pleasure to see him interact with and guide budding student developers to put forward their first steps towards open source contribution. The numerous mentorship sessions he facilitated for the participants reflect his domain expertise and technical proficiency. Abhishek is an inspiration for many young engineers who wish to build a career in Machine Learning and Data Science. His project ML-Crate was an essential gateway for ML enthusiasts to break the ice and start contributing. On behalf of the entire Organizing Team of JWOC 2K22, I highly appreciate Abhishek's efforts to foster the spirit of community bonding and cooperation among the aspiring developers. His imaginative prowess and enthusiasm will be a great asset to any organization. |
+|     [**Sagnik Majumder**](https://www.linkedin.com/in/sagnikmajumder?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BX9j20vjZT4aJ8PADJxLLLw%3D%3D) _(Campus24)_     | Abhishek is a highly enthusiastic and determined professional. He is not intimidated by new challenges and always embraces change. His work at Campus24 was truly commendable. Wish him all the best for his future endeavours. |
+| [**Aashish Medhe**](https://www.linkedin.com/in/aashish-medhe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BX9j20vjZT4aJ8PADJxLLLw%3D%3D) _(Samagra Foundation)_ | Mr. Abhishek Sharma would be a great addition to any internship program / employment. He is self-motivated, professional, punctual and a creative thinker. I believe that Mr. Abhishek Sharma will be an excellent fit for your organization. He has been nothing short of an exemplary intern.|
+
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
  
 [![Abhishek's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhisheks008&theme=xcode)](https://github.com/abhisheks008)
 
