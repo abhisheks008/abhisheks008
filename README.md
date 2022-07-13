@@ -1,7 +1,7 @@
 <body style="background-color:WhiteSmoke;">
 
 
-<h1 align="center">नमस्कार! 🙏 </h1>
+<h1 align="center">नमस्ते! 🙏 </h1>
 <img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner.png"/>
 
 <div align = 'center'>
