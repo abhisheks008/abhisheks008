@@ -14,7 +14,7 @@
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
-<p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 150+ newbies in Open Source programs.</b></p> <br>
+<p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 200+ newbies in Open Source programs.</b></p> <br>
 </div>
 
  
@@ -28,7 +28,7 @@
 - #3 Gloal Rank at Coding Blocks
 - 2 :star: at LeetCode
 
-🧑‍🤝‍🧑 Mentored over **150+ newbies in different Open Source Programs** <br>
+🧑‍🤝‍🧑 Mentored over **200+ newbies in different Open Source Programs** <br>
 💻 Participated in different Open Source Programs like, **LGMSoC 2021**, **DCP 2021** and **GWoC 2021**. <br>
 **In short:beer:, I :heart_eyes: to develope with my :hearts:** <br>
 
