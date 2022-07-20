@@ -77,9 +77,10 @@
 
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
- 
+<!--- 
 [![Abhishek's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhisheks008&theme=xcode)](https://github.com/abhisheks008)
-
+<p align = 'center'><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisheks008&theme=dracula&hide_border=true" /></p>
+--->
 
 <div align = "center">
 <div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=abhisheks008&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
