@@ -25,14 +25,14 @@
 :muscle: Passionate about **Competitive Coding** <br>
 - 6 :star: at HackerRank <br>
 - 5 :star: at CodeChef <br>
-- #3 Gloal Rank at Coding Blocks
+- #3 Global Rank at Coding Blocks
 - 2 :star: at LeetCode
 
 🧑‍🤝‍🧑 Mentored over **200 newbies in different Open Source Programs** <br>
 💻 Participated in different Open Source Programs as, **a Participant, a Mentor and even as a PA** <br>
 **In short:beer:, I love to work on new technologies :heart:** <br>
 
-*:sleeping: Fun Fact about me, I used to listen music during the time of coding!*
+*:sleeping: Fun Fact about me: I used to listen music during the time of coding!*
  
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
