@@ -49,6 +49,7 @@
  <a href="https://www.psoc.in/"><img src="https://www.psoc.in/img/psoc-logo-1.png" height=60px /></a>
  <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/abhisheks008/DL-Simplified/blob/main/.github/Assets/logo-1.jpg" height=60px /></a>
  <a href="http://hrsoc.herokuapp.com/"><img src = "https://soc.hackclubrait.co/static/media/hackclubrait-logo.bd4b56eb391b58b8a921.png" height=60px /></a>
+ <img src = "https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" height=60px />
 </p> 
 
  
