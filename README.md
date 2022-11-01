@@ -39,8 +39,8 @@
 <p align="center">
   <a href="https://dev.to/badge/hacktoberfest-2020"><img src="https://user-images.githubusercontent.com/30869493/134504434-590236f3-d00b-4fb4-9454-baff8497beeb.png" height="60px"></a>
   <a href="https://dev.to/badge/hacktoberfest-2021"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" height="60px"></a>
+  <img src = "https://github.com/abhisheks008/abhisheks008/blob/main/unnamed.png" height="60px">
  <a href = "eddiehub.org"><img src = "https://avatars.githubusercontent.com/u/66388388?s=200&v=4" height="60px"></a>
-  <a href = "https://lgmsoc.co/"><img src = "https://media-exp2.licdn.com/dms/image/C4E0BAQH3Wp-0LMBbcw/company-logo_200_200/0/1641653605723?e=1665619200&v=beta&t=DxCN6PlKUabDGw3G2X42WCOv319OIPpwqcYa3qWMO5s" height="60px"></a>
  <a href = "https://gwoc.girlscript.tech/"><img src = "https://gwoc.girlscript.tech/assets/favicon.png" height="60px"></a>
  <a href = "https://swoc.scriptindia.org/"><img src = "https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_200_200/0/1602422883512?e=2159024400&v=beta&t=s8IX2pN1J2v5SRRbgzVNzxnQ2rWeeMq2Xb__BYW60qE" height="60px"></a>
  <a href = "https://jwoc.tech/"><img src = "https://github.com/abhisheks008/abhisheks008/blob/main/jwoc.png" height="60px"></a>
