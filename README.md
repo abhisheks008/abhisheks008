@@ -30,7 +30,7 @@
 
 🧑‍🤝‍🧑 Mentored over **200 newbies in different Open Source Programs** <br>
 💻 Participated in different Open Source Programs as, **a Participant, a Mentor and even as a PA** <br>
-**In short:beer:, I love to work on new technologies :heart:** <br>
+**In short:beer:, I love to work on new technologies. :heart:** <br>
 
 *:sleeping: Fun Fact about me: I used to listen music during the time of coding!*
  
