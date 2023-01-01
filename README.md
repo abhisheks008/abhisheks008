@@ -14,7 +14,7 @@
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
-<p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 200+ newbies in Open Source programs.</b></p> <br>
+<p align = 'center'><b>A Software Developer, with excellent problem solving skills, passionate about ML and Open Source, talks about Research and Innovation in Modern Technology, Mentored 250+ newbies in Open Source programs.</b></p> <br>
 </div>
 
  
