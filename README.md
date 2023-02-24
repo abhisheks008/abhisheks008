@@ -19,7 +19,7 @@
 
  
 :star:  Looking forward to start my professional career as a **Software Engineer** <br>
-:nerd_face: Currently learning **Full Stack Development** <br>
+:nerd_face: Currently learning **Full Stack Development!** <br>
 :snowflake: Pursuing B.Tech in **Computer Science Engineering** from **University of Engineering & Management, Kolkata** <br>
 🚀 Love to talk about **Research and Innovation!** <br>
 :muscle: Passionate about **Competitive Coding** <br>
