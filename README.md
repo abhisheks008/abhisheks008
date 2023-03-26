@@ -18,8 +18,8 @@
 </div>
 
  
-:star:  Looking forward to start my professional career as a **Software Engineer** <br>
-:nerd_face: Currently learning **Full Stack Development!** <br>
+:star:  Looking forward to have a successful professional career as a **Software Engineer** <br>
+:nerd_face: Currently working on **Full Stack Development!** <br>
 :snowflake: Pursuing B.Tech in **Computer Science Engineering** from **University of Engineering & Management, Kolkata** <br>
 🚀 Love to talk about **Research and Innovation!** <br>
 :muscle: Passionate about **Competitive Coding** <br>
@@ -28,7 +28,7 @@
 - #3 Global Rank at Coding Blocks
 - 2 :star: at LeetCode
 
-🧑‍🤝‍🧑 Mentored over **200 newbies in different Open Source Programs** <br>
+🧑‍🤝‍🧑 Mentored over **250+ newbies in different Open Source Programs** <br>
 💻 Participated in different Open Source Programs as, **a Participant, a Mentor and even as a PA** <br>
 **In short:beer:, I love to work on new technologies. :heart:** <br>
 
