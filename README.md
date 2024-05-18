@@ -2,7 +2,7 @@
 
 
 <h1 align="center">नमस्ते! (Namaste!) </h1>
-<img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(9).png"/>
+<img src = "https://github.com/abhisheks008/abhisheks008/blob/main/Blue%20And%20Yellow%20Abstract%20LinkedIn%20Banner%20(10).png"/>
 
 <div align = 'center'>
 <!---
