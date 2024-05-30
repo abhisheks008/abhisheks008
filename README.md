@@ -24,7 +24,7 @@
 🚀 Love to talk about **Research and Innovation!** <br>
 🧑‍🤝‍🧑 Mentored over **250+ newbies in different Open Source Programs** <br>
 💻 Participated in different Open Source Programs as, **a Participant, a Mentor and even as a PA** <br>
-**In short:beer:, I love to work on new technologies. :heart:** <br>
+**In short🍺, I love to work on new technologies.💙** <br>
 
 *:sleeping: Fun Fact about me: I used to listen music during the time of coding!*
  
@@ -42,12 +42,11 @@
  <a href="https://csirait.in/opencode/"><img src="https://i.imgur.com/zu9thTP.png" height=60px /></a>
  <a href="https://www.psoc.in/"><img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/62daac5dc1e55_psoc-3.png?d=110x110" height=60px /></a>
  <a href="https://ssoc.getsocialnow.co/#"><img src="https://github.com/abhisheks008/DL-Simplified/blob/main/.github/Assets/logo-1.jpg" height=60px /></a>
- <a href="http://hrsoc.herokuapp.com/"><img src = "https://media.licdn.com/dms/image/C4E0BAQHN1aAA06huNg/company-logo_200_200/0/1632670085350?e=1709164800&v=beta&t=VZgYogeAWIFrODWpMDUBCGO7B5vJF2Q5QrHwYwiY8WY" height=60px /></a>
  <a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/World-of-ML/ML-Crate/blob/main/Assets/1602335093424.jpg" width=60px height=60px /></a>
 </p> 
 
  
- ## Open Source Organization - [The World of ML](https://github.com/World-of-ML)🥇
+ ## Open Source Repositories for Contributors!
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/abhisheks008) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/abhisheks008)
 
@@ -60,7 +59,7 @@
  
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## My Blogs:seedling:
+## My Blogs🌱
 | **No.** | **Topic** |
 |:---:|---|
 |01|[**Cognizant Digital Nurture 2.0 Program, 2022** - Complete Guide & Experience](https://abhisheks008.hashnode.dev/cognizant-digital-nurture-20-program-2022-complete-guide-experience)|
